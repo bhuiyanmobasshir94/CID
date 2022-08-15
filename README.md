@@ -7,3 +7,4 @@ Cattle livestock trading is scaling with exponential growth and man-aging this s
 3. [dataset_url](https://cv-datasets-2021.s3.amazonaws.com/dataset.csv)
 
 Dataset creation repository - [Cow-weight-and-Breed-Prediction](https://github.com/bhuiyanmobasshir94/Cow-weight-and-Breed-Prediction)
+DOI: [https://doi.org/10.1145/3542954.3543018](https://doi.org/10.1145/3542954.3543018)
