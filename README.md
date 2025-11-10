@@ -10,3 +10,14 @@ Cattle livestock trading is scaling with exponential growth and managing this sc
 Dataset creation repository - [Cow-weight-and-Breed-Prediction](https://github.com/bhuiyanmobasshir94/Cow-weight-and-Breed-Prediction)
 
 ###### DOI: [https://doi.org/10.1145/3542954.3543018](https://doi.org/10.1145/3542954.3543018)
+
+```
+@proceedings{10.1145/3542954,
+title = {ICCA '22: Proceedings of the 2nd International Conference on Computing Advancements},
+year = {2022},
+isbn = {9781450397346},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+location = {Dhaka, Bangladesh}
+}
+```
