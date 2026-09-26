@@ -71,13 +71,12 @@ DOI: https://doi.org/10.1145/3542954.3543018
 
 BibTeX:
 ```bibtex
-@proceedings{10.1145/3542954,
-  title = {ICCA '22: Proceedings of the 2nd International Conference on Computing Advancements},
-  year = {2022},
-  isbn = {9781450397346},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  location = {Dhaka, Bangladesh}
+@inproceedings{shagor2022cid,
+  title     = {CID: Cow Images Dataset for Regression and Classification},
+  author    = {Shagor, Mobasshir Bhuiya and Alvi, Md Zahidul Haque and Hasan, Khandaker Tabin},
+  booktitle = {Proceedings of the 2nd International Conference on Computing Advancements (ICCA '22)},
+  year      = {2022},
+  doi       = {10.1145/3542954.3543018}
 }
 ```
 
